@@ -6,9 +6,6 @@
 
 <script setup>
 import PageComponent from "../components/PageComponent.vue";
-export default {
-  name: 'Dashboard'
-}
 </script>
 
 <style scoped>

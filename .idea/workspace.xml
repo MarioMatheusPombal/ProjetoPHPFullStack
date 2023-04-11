@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94eb0b21-bbd2-451b-8532-ce57c0a9dd27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel-vue/app/Http/Controllers/AuthController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel-vue/app/Models/Survey.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel-vue/database/migrations/2023_04_11_120724_create_surveys_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-vue/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-vue/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-vue/vue/src/components/PageComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-vue/vue/src/components/PageComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-vue/vue/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-vue/vue/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-vue/vue/src/views/Dashboard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-vue/vue/src/views/Dashboard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-vue/vue/src/views/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-vue/vue/src/views/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-vue/vue/src/views/Surveys.vue" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-vue/vue/src/views/Surveys.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/laravel-vue/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php-8.2.4\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/league/config" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/composer" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/spatie/ignition" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/spatie/flare-client-php" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/spatie/laravel-ignition" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/laravel-vue/vendor/laravel/sail" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2OHJ51mJWvR72mU2hu7jBMH6Sje" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="JavaScript Debug.127.0.0.1:8000">
+    <configuration name="127.0.0.1:8000" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1:8000">
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost:5173" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:5173/">
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.127.0.0.1:8000" />
+        <item itemvalue="JavaScript Debug.localhost:5173" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94eb0b21-bbd2-451b-8532-ce57c0a9dd27" name="Changes" comment="" />
+      <created>1681211387813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681211387813</updated>
+      <workItem from="1681211388904" duration="1226000" />
+      <workItem from="1681214283666" duration="258000" />
+      <workItem from="1681214556879" duration="923000" />
+      <workItem from="1681215503693" duration="824000" />
+      <workItem from="1681216353506" duration="912000" />
+      <workItem from="1681217292316" duration="101000" />
+      <workItem from="1681217408283" duration="3723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
