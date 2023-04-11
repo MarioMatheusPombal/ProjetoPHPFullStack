@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94eb0b21-bbd2-451b-8532-ce57c0a9dd27" name="Changes" comment="">
+    <list default="true" id="94eb0b21-bbd2-451b-8532-ce57c0a9dd27" name="Changes" comment="Realizando função de autenticação">
+      <change afterPath="$PROJECT_DIR$/.idea/codeception.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/afbcd5bb-ed55-4d66-b5a1-3ba84c9c9839.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/afbcd5bb-ed55-4d66-b5a1-3ba84c9c9839/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/afbcd5bb-ed55-4d66-b5a1-3ba84c9c9839/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/afbcd5bb-ed55-4d66-b5a1-3ba84c9c9839/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/afbcd5bb-ed55-4d66-b5a1-3ba84c9c9839/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/phpspec.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/phpunit.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.phar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/laravel-vue/app/Http/Controllers/AuthController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/laravel-vue/app/Models/Survey.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel-vue/app/Models/SurveyAnswer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel-vue/app/Models/SurveyQuestion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel-vue/app/Models/SurveyQuestionAnswer.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/laravel-vue/database/migrations/2023_04_11_120724_create_surveys_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel-vue/database/migrations/2023_04_11_122046_create_survey_questions_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel-vue/database/migrations/2023_04_11_122059_create_survey_answers_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel-vue/database/migrations/2023_04_11_122124_create_survey_question_answers_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laravel-vue/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-vue/routes/api.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laravel-vue/vue/src/components/PageComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-vue/vue/src/components/PageComponent.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laravel-vue/vue/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-vue/vue/src/store/index.js" afterDir="false" />
@@ -206,8 +225,16 @@
       <workItem from="1681215503693" duration="824000" />
       <workItem from="1681216353506" duration="912000" />
       <workItem from="1681217292316" duration="101000" />
-      <workItem from="1681217408283" duration="3723000" />
+      <workItem from="1681217408283" duration="4091000" />
     </task>
+    <task id="LOCAL-00001" summary="Realizando função de autenticação">
+      <created>1681223175628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681223175628</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,5 +242,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Realizando função de autenticação" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realizando função de autenticação" />
   </component>
 </project>
